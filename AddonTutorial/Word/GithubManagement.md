@@ -34,3 +34,5 @@ You'll likely be prompted to sign in to your GitHub account. Go ahead and sign i
 Once signed in, you'll see a button that says `Initialize Repository` and we'll want to click that. You'll notice that the window changes, showing all of the files you've made adjustments to. In our case, it should show *all* of your files since we've never committed them.
 
 At the very top of this window, it will ask for a `Message (Ctrl + Enter to commit on "main")` and we'll want to enter a message here. Typically, our first commit should have the message of "Initial commit." Go ahead and type "Initial commit" in the `Message` box and press `Commit`. If you get a popup that asks if you'd like to stage your changes automatically, please answer `Yes` to this, and any additional following questions. This makes committing changes extremely quick.
+
+Once you do this, the button will change to `Publish Branch`, go ahead and click this.
