@@ -1,0 +1,14 @@
+{
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true,
+    "Lua.diagnostics.globals": [
+        "UIParent",
+        "CreateFrame",
+        "PlaySound",
+        "SlashCmdList",
+        "table",
+        "UISpecialFrames",
+        "CombatLog",
+        "DEFAULT_CHAT_FRAME"
+    ],
+}

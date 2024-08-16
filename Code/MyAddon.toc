@@ -1,0 +1,17 @@
+## Interface: 11502
+## Title: MyAddon
+## Notes: A description here.
+## Author: Your Name
+## Version: 1.0.0
+## RequiredDeps:
+## X-Curse-Project-ID: 99999
+## SavedVariables:
+## SavedVariablesPerCharacter: MyAddonDB, MyAddonMinimapPOS
+# Libraries
+libs/Ace3/AceAddon-3.0/AceAddon-3.0.lua
+libs/Ace3/AceDB-3.0/AceDB-3.0.lua
+libs/LibDBIcon-1.0/embeds.xml
+
+# Main Files
+MyAddon.lua
+Settings.lua
